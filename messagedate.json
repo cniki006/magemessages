@@ -1,36 +1,36 @@
 {
-    "homeTown": "Metro City",
-    "messages": [
-        {
-        "senderId" : "0",
-        "header" : "Hello friend!",
-        "text" : "Lorem ipsum dorem",
-        "imagesrc" : "https://thumbs.dreamstime.com/b/happy-sun-cartoon-behind-cloud-illustration-51245403.jpg"
-        },
-        {
-        "senderId" : "1",
-        "header" : "Hello enemy!",
-        "text" : "LoresadADSAD dorem",
-        "imagesrc" : "https://cdn.mos.cms.futurecdn.net/snbrHBRigvvzjxNGuUtcck.jpg"
-        },
-        {
-        "senderId" : "1",
-        "header" : "Hello FAFA!",
-        "text" : "LoreADSFDAFASDFASASJDDDDDDSAKJHAJKDJDDSAD dorem",
-        "imagesrc" : "https://images.unsplash.com/photo-1558022103-603c34ab10ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Zm9ycmVzdHxlbnwwfHwwfHw%3D&w=1000&q=80"
-        },
-        
-    ],
-    
-    "senders": [
-        {
-            "name" : "Bob Page",
-            "portraitSrc" : "https://static.wikia.nocookie.net/deusex/images/2/26/BobPage.png/revision/latest?cb=20110906203726&path-prefix=en"
-        },
-        {
-            "name" : "Marianna",
-            "portraitSrc" : "https://www.ohchr.org/sites/default/files/styles/hero_5_image_desktop/public/2022-11/women-rights-main-image.jpg?itok=RRGl2PFb"
-        },
-    ]
-    
+	"squadName": "Super hero squad",
+	"homeTown": "Metro City",
+	"formed": 2016,
+	"secretBase": "Super tower",
+	"active": true,
+	"members": [{
+			"name": "Molecule Man",
+			"age": 29,
+			"secretIdentity": "Dan Jukes",
+			"powers": ["Radiation resistance", "Turning tiny", "Radiation blast"]
+		},
+		{
+			"name": "Madame Uppercut",
+			"age": 39,
+			"secretIdentity": "Jane Wilson",
+			"powers": [
+				"Million tonne punch",
+				"Damage resistance",
+				"Superhuman reflexes"
+			]
+		},
+		{
+			"name": "Eternal Flame",
+			"age": 1000000,
+			"secretIdentity": "Unknown",
+			"powers": [
+				"Immortality",
+				"Heat Immunity",
+				"Inferno",
+				"Teleportation",
+				"Interdimensional travel"
+			]
+		}
+	]
 }
