@@ -1,36 +1,30 @@
 {
-	"squadName": "Super hero squad",
-	"homeTown": "Metro City",
-	"formed": 2016,
-	"secretBase": "Super tower",
-	"active": true,
-	"members": [{
-			"name": "Molecule Man",
-			"age": 29,
-			"secretIdentity": "Dan Jukes",
-			"powers": ["Radiation resistance", "Turning tiny", "Radiation blast"]
+	"messages": [{
+			"senderId": 0,
+			"header" : "Hello, friend!",
+			"messageText" : "It is very nice to meat you in person",
+			"image" : "https://verbnow.com/wp-content/uploads/2022/03/Sun-Fin-1024x683.jpg"
 		},
 		{
-			"name": "Madame Uppercut",
-			"age": 39,
-			"secretIdentity": "Jane Wilson",
-			"powers": [
-				"Million tonne punch",
-				"Damage resistance",
-				"Superhuman reflexes"
-			]
+            "senderId": 1,
+			"header" : "Hello, enemy!",
+			"messageText" : "Uga chaka uha chaka uga uga uga chaka",
+			"image" : "https://c.tadst.com/gfx/600x337/supermoon-rise.jpg?2"
 		},
 		{
-			"name": "Eternal Flame",
-			"age": 1000000,
-			"secretIdentity": "Unknown",
-			"powers": [
-				"Immortality",
-				"Heat Immunity",
-				"Inferno",
-				"Teleportation",
-				"Interdimensional travel"
-			]
+            "senderId": 0,
+			"header" : "Hello, FAFA!",
+			"messageText" : "aaaaaaaa hwafdkako jfoiejoajfiojadsfjioajdfijaifjioajfjaoisfdioaoijiodjiod",
+			"image" : "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg"
+		}
+	],
+	"senders": [{
+            "name" : "Bob Page",
+            "portrait" : "https://static.wikia.nocookie.net/deusex/images/5/5c/BobPage.jpg/revision/latest/smart/width/250/height/250?cb=20150118151921&path-prefix=en"
+		},
+		{
+            "name" : "Christina",
+            "portrait" : "https://www.ohchr.org/sites/default/files/styles/hero_5_image_desktop/public/2022-11/women-rights-main-image.jpg?itok=RRGl2PFb"
 		}
 	]
 }
