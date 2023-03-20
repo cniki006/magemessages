@@ -32,5 +32,21 @@
             "name" : "Christina",
             "portrait" : "https://www.ohchr.org/sites/default/files/styles/hero_5_image_desktop/public/2022-11/women-rights-main-image.jpg?itok=RRGl2PFb"
 		}
-	]
+	],
+    "socialpages": [{
+            "name" : "Bob Page",
+            "portrait" : "https://media.bizj.us/view/img/10411930/pagebob*1200xx2500-1404-0-118.jpg",
+            "backgroundImage" : "",
+            "infotypes": [
+                "Birthday:",
+                "Favorite Book:"
+            ],
+            "info": [
+                "23.05.1994",
+                "Lotr"
+            ],
+            "aboutme" : "I am evil genius"
+        }
+        
+    ]
 }
