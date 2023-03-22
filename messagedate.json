@@ -34,19 +34,21 @@
 		}
 	],
     "socialpages": [{
-            "name" : "Bob Page",
-            "whatithink" : "What a melody!",
-            "portrait" : "https://media.bizj.us/view/img/10411930/pagebob*1200xx2500-1404-0-118.jpg",
-            "backgroundImage" : "https://img.freepik.com/free-vector/colorful-science-education-background_23-2148490697.jpg",
+            "name" : "John Doe",
+            "whatithink" : "Hello, I am using Facepages!",
+            "portrait" : "https://static.vecteezy.com/system/resources/previews/008/442/086/original/illustration-of-human-icon-user-symbol-icon-modern-design-on-blank-background-free-vector.jpg",
+            "backgroundImage" : "https://drive.google.com/uc?id=1yutflYpuMe0nbPOaxIVCXhV9Az74BKmo",
             "infotypes": [
                 "Birthday:",
-                "Favorite Book:"
+                "Profession:"
+                "Favorite Hobbies:"
             ],
             "info": [
-                "23.05.1994",
-                "Lotr"
+                "",
+                "",
+                ""
             ],
-            "aboutme" : "I am evil genius"
+            "aboutme" : "Tell me about yourself!"
         }
         
     ]
