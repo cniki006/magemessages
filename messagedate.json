@@ -44,12 +44,27 @@
                 "Favorite Hobbies:"
             ],
             "info": [
-                "d",
-                "d",
-                "d"
+                "-",
+                "-",
+                "-"
             ],
             "aboutme" : "Tell me about yourself!"
-        }
+        },
+        {
+            "name" : "Jane Starling",
+            "whatithink" : "It's what's in yourself that makes you happy or unhappy.",
+            "portrait" : "https://drive.google.com/uc?id=15AUVopq_Zg_utV7emUqrqFieXffgStZY",
+            "backgroundImage" : "https://drive.google.com/uc?id=19w_kxGzn9_ou8S595AR18_Z1I0gDrpfH",
+            "infotypes": [
+                "Fluent Languages:",
+                "Special interests:"
+            ],
+            "info": [
+                "French, German, Latin and Japanese"
+                "Early 12th centery"
+            ],
+            "aboutme" : "Spend 12 years at Imperial College of London as a professor of history and languages. Now I am dedicated to my family and the close ones."
+        }           
         
     ]
 }
