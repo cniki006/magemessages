@@ -1,32 +1,14 @@
 {
 	"messages": [{
-			"senderId": 1,
-			"header" : "Hello, my mortal enemy!",
-			"messageText" : "Alkuperäistä Raamattua yhtenäisenä kirjakokoelmana ei ole olemassa, vaan alussa oli suuri määrä erilaisia tekstejä, jotka ovat kehittyneet itsenäisesti ja myöhemmin kanonisoitiin eli liitettiin osaksi Raamattua. Kuten tekstien alkuperäiset nimet osoittavat, heprealainen ja kristillinen Raamattu ovat itse asiassa kokoelma kirjoja, eräänlainen pienoiskirjasto. Protestanttisessa Raamatussa on 66 (39 + 27) erillistä kirjaa. Nämä kirjat on kirjoittanut noin 36 ensisijaista kirjoittajaa.",
-			"image" : "https://upload.wikimedia.org/wikipedia/commons/5/53/BiblenCh_ubt.jpeg"
-		},
-        {
 			"senderId": 0,
-			"header" : "Hello, friend!",
-			"messageText" : "It is very nice to meat you in person",
-			"image" : "https://verbnow.com/wp-content/uploads/2022/03/Sun-Fin-1024x683.jpg"
-		},
-		{
-            "senderId": 1,
-			"header" : "Hello, enemy!",
-			"messageText" : "Uga chaka uha chaka uga uga uga chaka",
-			"image" : "https://c.tadst.com/gfx/600x337/supermoon-rise.jpg?2"
-		},
-		{
-            "senderId": 0,
-			"header" : "Hello, FAFA!",
-			"messageText" : "aaaaaaaa hwafdkako jfoiejoajfiojadsfjioajdfijaifjioajfjaoisfdioaoijiodjiod",
-			"image" : "https://upload.wikimedia.org/wikipedia/commons/e/eb/Ash_Tree_-_geograph.org.uk_-_590710.jpg"
+			"header" : "Uusi kokkausohjelma!",
+			"messageText" : "Olet jo nähnyt videoita, joissa tavallisia arkisia esineita muutetaan kakuiksi. Mutta Construction site baker kääntää pelin ylösalaisin! Uudessa ohjelmassa osallistujat koittaa 'leipoa' teoksiaan odomattomista materiaaleista, joita kenties löytyisi pikemminkin rakennusmaalta, kuin keittiöstä. Saavatko osallistujat matkimaan klassisia kakkuresepteja, sekä ulkonäön, että MAUN kannalta? Ja kuka on viimeinen osallistuja joka erihtyy syömään väärän kakun. Selviä uudesta Construction site bakerin uudesta kaudesta!",
+			"image" : "https://drive.google.com/um?id=1NCNOLfIRBuJCGW4fh_ed0sHnfdSA899M"
 		}
 	],
 	"senders": [{
-            "name" : "Bob Page",
-            "portrait" : "https://media.bizj.us/view/img/10411930/pagebob*1200xx2500-1404-0-118.jpg"
+            "name" : "Netfix Entertainment",
+            "portrait" : "https://drive.google.com/uc?id=1OQftvKs_f7BqbMfqsGR1bZgr6ooQEomX"
 		},
 		{
             "name" : "Christina",
@@ -61,7 +43,7 @@
             ],
             "info": [
                 "French, German, Latin and Japanese",
-                "Early 12th centery"
+                "Early 12th century"
             ],
             "aboutme" : "Spend 12 years at Imperial College of London as a professor of history and languages. Now I am dedicated to my family and the close ones."
         }           
